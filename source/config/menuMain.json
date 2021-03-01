@@ -7,7 +7,7 @@
   },  
   {
     "id": 1,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "semiotica_semiologia",
     "title": "1. Semiótica y semiología",    
     "path": "pages/tema-1.html",
@@ -34,7 +34,7 @@
   },
   {
     "id": 2,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "interpretacion",
     "title": "2. La interpretación",    
     "path": "pages/tema-2.html",
